@@ -1,2 +1,2 @@
-# ClosedAI
+# SortaOpenAI
 An AI Chatbot web
